@@ -1,0 +1,22 @@
+#contact {
+    width: 1200px;
+    position: relative;
+    margin: auto;
+    padding: 0px 20px 20px 20px;
+    margin-top: 25px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+#contact h3 {
+    font-size: 30px;
+    letter-spacing: 5px;
+    padding: 25px
+}
+
+#contact p {
+    letter-spacing: 3px;
+    font-size: 18px;
+    padding: 20px;
+}

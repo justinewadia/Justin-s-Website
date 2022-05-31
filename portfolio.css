@@ -1,0 +1,21 @@
+#logos {
+    width: 1200px;
+    position: relative;
+    margin: auto;
+    padding: 0px 20px 20px 20px;
+    height: 600px;
+    margin-top: 25px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+#logos h3 {
+    font-size: 30px;
+    letter-spacing: 5px;
+    padding: 25px
+}
+
+#logos img {
+    width: 20%;
+}
